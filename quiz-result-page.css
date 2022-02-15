@@ -1,0 +1,11 @@
+section .option-list .option,
+.btn {
+  pointer-events: none;
+}
+
+.result-container {
+  max-width: 35rem;
+  background-color: aliceblue;
+  align-items: center;
+  padding: 1rem;
+}
