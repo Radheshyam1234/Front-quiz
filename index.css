@@ -1,0 +1,8 @@
+section {
+  padding: 1rem 3rem;
+}
+
+.card-vertical .btn {
+  margin-bottom: 5px;
+  width: 100%;
+}
